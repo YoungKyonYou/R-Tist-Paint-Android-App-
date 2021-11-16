@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">R-tist</string>
+    <string name="Color">color</string>
+    <string name="Save">Save</string>
+    <string name="LineWidth">Line Width</string>
+    <string name="erase">Erase</string>
+    <string name="clear">Clear</string>
+    <string name="set_width">Set Width</string>
+    <string name="Open">openId</string>
+    <string name="Item">item</string>
+    <string name="select" />
+    <string name="selectId">select</string>
+    <string name="Artist">Artist</string>
+    <string name="Rtist">Rtist</string>
+
+</resources>
